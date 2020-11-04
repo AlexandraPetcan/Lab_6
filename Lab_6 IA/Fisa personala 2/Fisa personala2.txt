@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+        background-color: slateblue;
+    }
+    h1{
+        color: violet;
+         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    }
+    h2{
+        color: dodgerblue;
+         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    }
+    .logo{
+        width: 170px;
+        height: 70px;
+        align-items: center;
+        margin-left: 900px;
+        background-color: aliceblue;
+
+    }
+    img{
+       
+        border-radius: 20px;
+        margin-left: 10px;
+        width: 200px;
+        height: 225px;
+        opacity: 80%;
+
+    }
+    div{
+        background-color: orangered;
+    }
+    table{
+        margin-left: 10px ;
+        border: 2px solid dodgerblue;
+        background-color: mediumseagreen;
+    }
+    tr{
+      border: 2px solid tomato;
+      font-family:Arial, Helvetica, sans-serif;
+    }
+    td{
+      border: 2px solid tomato;
+    }
+    p{
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    ul{
+        border: 2px solid dodgerblue;
+        background-color: lime;
+    }
+    li{
+        border: 2px solid tomato;
+        background-color: lightblue;
+    }
+    
+</style>
+</head>
+<h1>Alexandra Petcan</h1>
+<img src="Alexandra.jpg">
+<p>Data nasterii: 26.09.2001</p>
+<p>Adresa de email: alex260976@yahoo.com</p>
+<p>Telefon: 0756xxxxxx</p>
+<p>Citat: "Radacinile educatiei sunt amare, dar fructul este dulce."(Aristotel)</p>
+<h2>Materii preferate</h2>
+<table>
+<tbody>
+<tr>
+<th>Algebra liniara</th>
+<th><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/02.pdf">Fisa disciplinei</a></th>
+</tr>
+<tr>
+<th>Elemente de fizica</th>
+<th><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/03.pdf">Fisa disciplinei</a></th>
+</tr>
+<tr>
+<th>Informatica aplicata</th>
+<th><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/06.pdf">Fisa disciplinei</a></th>
+</tr>
+</tbody>
+</table>
+<h2>Hobby-uri</h2>
+<ul>
+<li>Anime-uri</li>
+<li>Muzica</li>
+<li>Jocurile pe calculator</li>
+</body>
+</html>
